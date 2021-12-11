@@ -2,7 +2,6 @@
 baseURL = "https://aspoathletisme-tours.fr/"
 languageCode = "fr-fr"
 title = "ASPO Athlétisme"
-theme = "restaurant-hugo"
 summaryLength = "10"
 paginate = 4
 
