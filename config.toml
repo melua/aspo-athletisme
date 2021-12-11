@@ -59,10 +59,10 @@ name = "Adhésion"
 URL = "price"
 weight = 4
 
-#[[menu.main]]
-#name = "News"
-#URL = "subscribe"
-#weight = 5
+[[menu.main]]
+name = "Nous rejoindre"
+URL = "subscribe"
+weight = 5
 
 #[[menu.main]]
 #name = "Contact Us"
