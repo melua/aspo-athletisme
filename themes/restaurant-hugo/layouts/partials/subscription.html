@@ -1,0 +1,34 @@
+{{ if site.Data.homepage.subscription.enable }}
+{{ with site.Data.homepage.subscription }}
+<section id="subscribe" {{ if .overlay }} class="overlay" {{ end }}
+  style="background-image: url('{{ .bg_image | absURL }}');">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <h1 class=" heading wow fadeInUp" data-wow-duration="300ms" data-wow-delay="300ms">{{ .title | markdownify }}
+          </h1>
+          <p class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="400ms">{{ .description | safeHTML }}</p>
+          <div id="mapdiv" class="subscription-form" style="width: 75%; height: 250px; margin: 0 auto !important; z-index: 0 !important">
+          </div>
+  <script src="https://openlayers.org/api/2.13.1/OpenLayers.js"></script>
+  <script>
+    map = new OpenLayers.Map("mapdiv", { controls: [] });
+    map.addLayer(new OpenLayers.Layer.OSM());
+    var lonLat = new OpenLayers.LonLat(0.6978898777793878, 47.36713430956631)
+        .transform(
+            new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
+            map.getProjectionObject() // to Spherical Mercator Projection
+        );
+    var markers = new OpenLayers.Layer.Markers("Markers");
+    markers.addMarker(new OpenLayers.Marker(lonLat));
+    map.addLayer(markers);
+    map.setCenter(lonLat, 15);
+  </script>
+        </div>
+      </div><!-- .col-md-12 close -->
+    </div><!-- .row close -->
+  </div><!-- .containe close -->
+</section><!-- #subscribe close -->
+{{end}}
+{{end}}

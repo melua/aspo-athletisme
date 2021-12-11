@@ -1,0 +1,72 @@
+################## Hero area ##################
+hero_area:
+  enable : true
+  bg_image : "images/header.jpg"
+  overlay : true
+
+################### Gallery ###################
+gallery:
+  enable : true
+  title : "À LA UNE"
+  images:
+    - "images/slider/bonne-humeur.jpg"
+    - "images/slider/confiance-et-respect.jpg"
+    - "images/slider/convivialite-et-partage.jpg"
+    - "images/slider/courir-ensemble.jpg"
+    - "images/slider/esprit-equipe.jpg"
+    - "images/slider/loisir.jpg"
+
+################ About #######################
+about:
+  enable : true
+  image : "images/club.png"
+  title : "Un <span>club</span> centenaire ouvert à tous"
+  description : "Créée en 1913, l’Association Sportive Paris-Orléans devient en 1938 l’Association Sportive de Préparation Olympique suite au rachat de la Compagnie du chemin de fer de Paris à Orléans (PO) par la SNCF. En 1995, toutes les sections de l’association deviennent autonomes. De nos jours, la section athlétisme est ouverte à tous les passionnés de courses à pied."
+  
+################# Blog ######################
+blog:
+  enable : true
+  title : "Nos dernières <span>Actualités</span>"
+  bg_image : "images/blog-bg.jpg"
+  overlay : true
+
+
+################# food Menu ################
+pricing:
+  enable : true
+  title : "Un sport <span>abordable</span>"
+  description: "Le club est affilié à la Fédération Sportive et Gymnique du Travail qui encourage la pratique du sport populaire de masse. La licence omnisports permet à chaque adhérent de s'ouvrir à d'autres activités, ce qui correspond à une demande sociale actuelle."
+  subtitle : "TARIFS"
+  pricing_item:
+  - title: "Licence Adulte"
+    description: "Licence omnisport FSGT agréée offrant accès à la pratique du sport en loisir et en compétition. Un certificat médical de moins de 2 ans est demandé. Assurance sportive incluse. L'inscription à 1 cross/trail et à 1 course (semi-marathon maximum) est offerte si le club y participe."
+    price : "€ 50.00"
+
+  - title: "Licence Cheminot"
+    description: "Réservée aux salariés et retraités de la SNCF. Licence omnisport FSGT agréée offrant accès à la pratique du sport en loisir et en compétition. Un certificat médical de moins de deux ans est demandé. Assurance sportive incluse. L'inscription à 1 cross/trail et à 1 course (semi-marathon maximum) est offerte si le club y participe."
+    price : "€ 45.00"
+
+  - title: "Licence Édudiant"
+    description: "Réservée aux étudiants de plus de 18 ans. Licence omnisport FSGT agréée offrant accès à la pratique du sport en loisir et en compétition. Un certificat médical de moins de deux ans est demandé. Assurance sportive incluse. L'inscription à 1 cross/trail et à 1 course (semi-marathon maximum) est offerte si le club y participe."
+    price : "€ 42.00"
+
+  - title: "Carte Stade"
+    description: "Cette carte offre le droit d'accéder au stade aux crénaux affectés au club et participe aux frais d'accès au stade. Aucune assurance n'est incluse."
+    price : "€ 22.00"
+
+################### Subscription ################
+subscription:
+  enable : true
+  bg_image : "images/subscribe-bg.jpg"
+  title : "VENEZ nous <span>REJOINDRE</span>"
+  description : "Le club se réunit de SEPTEMBRE à JUIN<br>y compris pendant les vacances scolaires<br><br>tous les MARDI et JEUDI<br>de 18H30 à 20H00<br><br>RDV en face du tunnel piétonnier du Centre Aquatique du Lac<br>avant de rejoindre en échauffement le Stade Thomas Rodriguez"
+  form_action : "https://themefisher.us9.list-manage.com/subscribe/post?u=f95ece2732a6e9925f2e70a61&amp;id=b1e227529e"
+  formName : "b_f95ece2732a6e9925f2e70a61_b1e227529e"
+  overlay : true
+
+################ Contact #######################
+contact:
+  enable : false
+  title: "Let's <span> Contact Us </span>"
+  subtitle: "SIGN UP FOR EMAIL ALERTS"
+  form_action : "#" #contact form works with formspree.io
