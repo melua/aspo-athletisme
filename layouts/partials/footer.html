@@ -42,7 +42,7 @@
 						<ul class="gallery">
 							{{ range site.Params.footer.gallery }}
 							<li><a href="{{ .image | absURL }}" class="venobox" data-gall="footerGallery"><img class="img-responsive"
-										src="{{ .image | absURL }}" alt=""></a></li>
+										src="{{ .image | absURL }}" alt="" style="display: inline-block; vertical-align: middle"></a></li>
 							{{ end }}
 						</ul>
 					</div>

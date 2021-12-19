@@ -98,12 +98,12 @@ socialTitle = "NOUS <span>SUIVRE</span>"
 
 ############################ footer contact item
 [[params.footer.contactItem]]
-title="Whatsapp"
+title="WhatsApp"
 icon = "fa fa-whatsapp"
 content = "Sur demande d'invitation"
 
 [[params.footer.contactItem]]
-title="Addresse"
+title="Adresse"
 icon = "fa fa-map-marker"
 content = "41, rue Grécourt 37000 Tours"
 
