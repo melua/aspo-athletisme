@@ -117,9 +117,6 @@ content = "info@aspoathletisme-tours.fr"
 image = "images/photo/ag2019.jpg"
 
 [[params.footer.gallery]]
-image = "images/photo/ag2020.jpg"
-
-[[params.footer.gallery]]
 image = "images/photo/champ-fr-2020-2.jpg"
 
 [[params.footer.gallery]]
