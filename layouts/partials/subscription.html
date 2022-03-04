@@ -24,14 +24,13 @@
     ],
     null);
     map.addLayer(osm);
-    var lonLat = new OpenLayers.LonLat(0.6978898777793878, 47.36713430956631)
+    var lonLat = new OpenLayers.LonLat(0.7033844932282463, 47.369439860884555)
         .transform(
             new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
             map.getProjectionObject() // to Spherical Mercator Projection
         );
-    var markers = new OpenLayers.Layer.Markers("Markers");
-    markers.addMarker(new OpenLayers.Marker(lonLat));
-    map.addLayer(markers);
+    var poi = new OpenLayers.Layer.Text( "POI", { location: "./poi.txt", projection: map.displayProjection });
+    map.addLayer(poi);
     map.setCenter(lonLat, 15);
   </script>
         </div>

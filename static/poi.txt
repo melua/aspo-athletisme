@@ -1,0 +1,5 @@
+lon	lat	title	iconSize	iconOffset	icon
+0.6978898777793878	47.36713430956631	start	35,35	-30,-25	/images/start.png
+0.7143510907723705	47.370989673990145	stade	35,35	-20,-25	/images/stade.png
+0.7009115051825026	47.36710229934688	parking	35,35	-10,-30	/images/parking.png
+						
