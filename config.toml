@@ -22,6 +22,8 @@ URL = "css/venobox.css"
 URL = "css/main.css"
 [[params.plugins.css]]
 URL = "css/responsive.css"
+[[params.plugins.css]]
+URL = "css/pure.min.css"
 
 # JS Plugins
 [[params.plugins.js]]
