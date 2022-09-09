@@ -100,9 +100,15 @@ socialTitle = "NOUS <span>SUIVRE</span>"
 
 ############################ footer contact item
 [[params.footer.contactItem]]
-title="WhatsApp"
+title="Téléphone"
 icon = "fa fa-whatsapp"
-content = "Sur demande d'invitation"
+content = """
+Sandra : ![](/images/tresoriere.jpg 'Trésorière')
+
+Antoine : ![](/images/secretaire.jpg 'Secrétaire')
+
+Antoine : ![](/images/president.jpg 'Président')
+"""
 
 [[params.footer.contactItem]]
 title="Adresse"
