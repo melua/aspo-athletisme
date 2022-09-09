@@ -103,11 +103,11 @@ socialTitle = "NOUS <span>SUIVRE</span>"
 title="Téléphone"
 icon = "fa fa-whatsapp"
 content = """
-Sandra : ![](/images/tresoriere.jpg 'Trésorière')
+Sandra : ![](images/tresoriere.jpg 'Trésorière')
 
-Antoine : ![](/images/secretaire.jpg 'Secrétaire')
+Antoine : ![](images/secretaire.jpg 'Secrétaire')
 
-Antoine : ![](/images/president.jpg 'Président')
+Antoine : ![](images/president.jpg 'Président')
 """
 
 [[params.footer.contactItem]]
