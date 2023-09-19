@@ -40,19 +40,19 @@ pricing:
   pricing_item:
   - title: "Licence Adulte"
     description: "Licence omnisport FSGT agréée offrant accès à la pratique du sport en loisir et en compétition. Un certificat médical de moins de 2 ans est demandé. Assurance sportive incluse. L'inscription à 1 cross/trail et à 1 course (semi-marathon maximum) est offerte si le club y participe."
-    price : "€ 50.00"
+    price : "€ 55.00"
 
   - title: "Licence Cheminot"
     description: "Réservée aux salariés et retraités de la SNCF. Licence omnisport FSGT agréée offrant accès à la pratique du sport en loisir et en compétition. Un certificat médical de moins de deux ans est demandé. Assurance sportive incluse. L'inscription à 1 cross/trail et à 1 course (semi-marathon maximum) est offerte si le club y participe."
-    price : "€ 45.00"
+    price : "€ 50.00"
 
   - title: "Licence Édudiant"
     description: "Réservée aux étudiants de plus de 18 ans. Licence omnisport FSGT agréée offrant accès à la pratique du sport en loisir et en compétition. Un certificat médical de moins de deux ans est demandé. Assurance sportive incluse. L'inscription à 1 cross/trail et à 1 course (semi-marathon maximum) est offerte si le club y participe."
-    price : "€ 42.00"
+    price : "€ 45.00"
 
   - title: "Carte Stade"
     description: "Cette carte offre le droit d'accéder au stade aux crénaux affectés au club et participe aux frais d'accès au stade. Aucune assurance n'est incluse."
-    price : "€ 22.00"
+    price : "€ 25.00"
 
 ################### Subscription ################
 subscription:
@@ -61,7 +61,7 @@ subscription:
   title : "VENEZ nous <span>REJOINDRE</span>"
   description : "Le club se réunit de SEPTEMBRE à JUIN<br>y compris pendant les vacances scolaires<br><br>tous les MARDI et JEUDI<br>de 18H30 à 20H00<br><br>RDV en face du tunnel piétonnier du Centre Aquatique du Lac<br>avant de rejoindre en échauffement le Stade Thomas Rodriguez"
   form_action : "https://themefisher.us9.list-manage.com/subscribe/post?u=f95ece2732a6e9925f2e70a61&amp;id=b1e227529e"
-  description2: "Des sorties longues sont occasionnellement organisées <br>le DIMANCHE entre 10H00 et 12H00<br> suivant la disponibilité et la motivation de chacun"
+  description2: "L'entrainement du MARDI est dédié au court :<br>fractionné sur du 200m, 300m, 400m<br>tandis que le JEUDI est dédié au long :<br> fractionné sur du 500m, 1000m et plus<br><br>Des sorties longues sont occasionnellement organisées <br>le DIMANCHE entre 10H00 et 12H00<br> suivant la disponibilité et la motivation de chacun"
   formName : "b_f95ece2732a6e9925f2e70a61_b1e227529e"
   overlay : true
 
