@@ -39,19 +39,19 @@ pricing:
   subtitle : "TARIFS"
   pricing_item:
   - title: "Licence Adulte"
-    description: "Licence omnisport FSGT agréée offrant accès à la pratique du sport en loisir et en compétition. Un certificat médical de moins de 2 ans est demandé. Assurance sportive incluse. L'inscription à 1 cross/trail et à 1 course (semi-marathon maximum) est offerte si le club y participe."
+    description: "Licence omnisport FSGT agréée offrant accès à la pratique du sport en loisir et en compétition. Un certificat médical de moins de 2 ans est demandé. Assurance sportive incluse.L'inscription à 1 cross/trail et à 1 course (semi-marathon maximum) est offerte si le club y participe et sous réserve que vous participiez aux entrainements."
     price : "€ 55.00"
 
   - title: "Licence Cheminot"
-    description: "Réservée aux salariés et retraités de la SNCF. Licence omnisport FSGT agréée offrant accès à la pratique du sport en loisir et en compétition. Un certificat médical de moins de deux ans est demandé. Assurance sportive incluse. L'inscription à 1 cross/trail et à 1 course (semi-marathon maximum) est offerte si le club y participe."
+    description: "Réservée aux salariés et retraités de la SNCF. Licence omnisport FSGT agréée offrant accès à la pratique du sport en loisir et en compétition. Un certificat médical de moins de deux ans est demandé. Assurance sportive incluse. L'inscription à 1 cross/trail et à 1 course (semi-marathon maximum) est offerte si le club y participe et sous réserve que vous participiez aux entrainements."
     price : "€ 50.00"
 
   - title: "Licence Édudiant"
-    description: "Réservée aux étudiants de plus de 18 ans. Licence omnisport FSGT agréée offrant accès à la pratique du sport en loisir et en compétition. Un certificat médical de moins de deux ans est demandé. Assurance sportive incluse. L'inscription à 1 cross/trail et à 1 course (semi-marathon maximum) est offerte si le club y participe."
+    description: "Réservée aux étudiants de plus de 18 ans. Licence omnisport FSGT agréée offrant accès à la pratique du sport en loisir et en compétition. Un certificat médical de moins de deux ans est demandé. Assurance sportive incluse. L'inscription à 1 cross/trail et à 1 course (semi-marathon maximum) est offerte si le club y participe et sous réserve que vous participiez aux entrainements."
     price : "€ 45.00"
 
   - title: "Carte Stade"
-    description: "Cette carte offre le droit d'accéder au stade aux crénaux affectés au club et participe aux frais d'accès au stade. Aucune assurance n'est incluse."
+    description: "Cette carte offre le droit d'accéder au stade aux crénaux affectés au club et participe aux frais d'accès au stade. Aucune licence ni assurance n'est incluse."
     price : "€ 25.00"
 
 ################### Subscription ################
